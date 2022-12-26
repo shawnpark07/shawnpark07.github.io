@@ -1,6 +1,6 @@
-- title: Email
-  url: mailto://shawnpark5605@gmail.com
-  icon: fas fa-envelope
+- title: LinkedIn
+  url: https://www.linkedin.com/in/sungchan-park-130a05143/
+  icon: fab fa-linkedin
 - title: Instagram
   url: https://www.instagram.com/_shawn.p_
   icon: fab fa-instagram
