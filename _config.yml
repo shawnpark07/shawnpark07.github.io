@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Shawn Park | 박성찬
+description: Learnings, Discoveries, and Actions
+url: https://shawnpark5605.github.io
+avatar: /assets/profile2.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /assets/bg1.jpg
 
 # Gems
 plugins:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Shawn Park
+  url: https://github.com/shawnpark07/
+  email: shawnpark5605@gmail.com
