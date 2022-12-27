@@ -14,7 +14,7 @@ By doing so, longing to contribute to help tackle the fatal problem of our world
 
 Belonging to [Tada]([url](https://tadatada.com/)), attracted 1.7M users and created 20,000 driver jobs only within 1 year, and it's mother company [Socar]([url](https://www.socar.kr/)), pioneering car-sharing paradigm based on it's 6M user base, worked for 2 years as a business developer.
 
-Contributed to build a ride-reservation system at Tada, and particiapted in partnership with Naver, Hyundai-Card, VISA, Volkswagen at Socar. Later, contribute to structuring of new-business of Socar, long-term sharing.
+Contributed to build a ride-reservation system at Tada, and particiapted in partnership with Naver, Hyundai-Card, VISA, Volkswagen at Socar. Later, contributed to structuring of new-business of Socar, the long-term sharing.
 
 ## LEARNING
 
