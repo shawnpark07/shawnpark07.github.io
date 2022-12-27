@@ -3,6 +3,19 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+## VISION
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+Dreaming to be an entrepreneur steering our world toward a better direction with tech.
+
+Especially interested in optimizing traditional industries like agriculture or logistics by introducing AI and Data tech.
+By doing so, longing to contribute to help tackle the fatal problem of our world, climate disaster and inequality.
+
+## CAREER
+
+Belonging to [Tada]([url](https://tadatada.com/)), attracted 1.7M users and created 20,000 driver jobs only within 1 year, and it's mother company [Socar]([url](https://www.socar.kr/)), pioneering car-sharing paradigm based on it's 6M user base, worked for 2 years as a business developer.
+
+Contributed to build a ride-reservation system at Tada, and particiapted in partnership with Naver, Hyundai-Card, VISA, Volkswagen at Socar. Later, contribute to structuring of new-business of Socar, long-term sharing.
+
+## LEARNING
+
+I received a M.S of Data Science from Seoul National University where I especially concentrated on Computer Vision, and a B.S of Electrical & Computer Engineering from Seoul National University. Also, I was a Samsung JFL(Junior Frontier Leader) Scholarship student which covers tution and part of living stipend for full-year.
