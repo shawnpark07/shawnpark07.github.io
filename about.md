@@ -12,10 +12,10 @@ By doing so, longing to contribute to help tackle the fatal problem of our world
 
 ## CAREER
 
-Belonging to [Tada]([url](https://tadatada.com/)), attracted 1.7M users and created 20,000 driver jobs only within 1 year, and it's mother company [Socar]([url](https://www.socar.kr/)), pioneering car-sharing paradigm based on it's 6M user base, worked for 2 years as a business developer.
+Belonging to [Tada]([https://tadatada.com/]), attracted 1.7M users and created 20,000 driver jobs only within 1 year, and it's mother company [Socar]([https://www.socar.kr/]), pioneering car-sharing paradigm based on it's 6M user base, worked for 2 years as a business developer.
 
 Contributed to build a ride-reservation system at Tada, and particiapted in partnership with Naver, Hyundai-Card, VISA, Volkswagen at Socar. Later, contributed to structuring of new-business of Socar, the long-term sharing.
 
 ## LEARNING
 
-I received a M.S of Data Science from Seoul National University where I especially concentrated on 3D Computer Vision([Paper]([url](https://openreview.net/forum?id=9nG9yJBbfF)) & [Demo]([url](https://www.youtube.com/watch?v=MBTAXerrD3o))), and a B.S of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tution and part of living stipend during B.S.
+I received a M.S of Data Science from Seoul National University where I especially concentrated on 3D Computer Vision([Paper]([https://openreview.net/forum?id=9nG9yJBbfF]) & [Demo]([https://www.youtube.com/watch?v=MBTAXerrD3o])), and a B.S of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tution and part of living stipend during B.S.
