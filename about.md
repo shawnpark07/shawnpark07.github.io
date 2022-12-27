@@ -18,4 +18,4 @@ Contributed to build a ride-reservation system at Tada, and particiapted in part
 
 ## LEARNING
 
-I received a M.S of Data Science from Seoul National University where I especially concentrated on Computer Vision, and a B.S of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tution and part of living stipend during B.S.
+I received a M.S of Data Science from Seoul National University where I especially concentrated on 3D Computer Vision([Paper]([url](https://openreview.net/forum?id=9nG9yJBbfF))), and a B.S of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tution and part of living stipend during B.S.
