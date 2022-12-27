@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engineering
+title: Engineering | "Engineering is the closest thing to magic that exists in the world" - Elon Musk
 ---
 
 **Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
