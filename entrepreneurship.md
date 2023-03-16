@@ -7,7 +7,9 @@ title: Entrepreneurship
 
 
 
-### Images
+### Tada / Soca Business Development
+# (2019.10 ~ 2021.02)
+
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
