@@ -33,6 +33,9 @@ While working here, I contributed to some notable partnerships with Naver, Hyund
 
 I was responsible for planning, operating, and partnering for the entire business of TADA Air, a service for airport transportation, and TADA PRIVATE, a service for time-based rentals for golf, weddings, and tourism. Afterwards, I contributed to the optimization and enhancement of operating systems and processes.
 
+<p align="center">
+  <img src="/assets/bg_lineup_air.jpg" alt="Sublime's custom image"/>
+</p>
 ![placeholder](/assets/bg_lineup_air.jpg "Small example image"){: .align-center}
 
 
