@@ -6,6 +6,8 @@ title: Engineering
 > "Engineering is the closest thing to magic that exists in the world" / Elon Musk
 
 
+## [M.S. @ SNU Data Science]
+
 ## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (M.S. Thesis)
 
 Focusing on the potential practical impact of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S under the supervision of Prof. Joonseok Lee, holding a concurrent position in Google Research (<a href="http://viplab.snu.ac.kr/">Lab</a>).
@@ -25,6 +27,8 @@ Through extensive experiments, we verify that the proposed model, POTR-3D, and d
   Demonstration of the method on in-the-wild videos
 </p>
 
+
+## [B.S. @ SNU Electrical & Computer Eng.]
 
 ## (2018.03 ~ 2018.06) E-Scooter (w 3-Phase BLDC Motor) Manufacturing Project
 
