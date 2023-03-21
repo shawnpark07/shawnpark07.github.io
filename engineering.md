@@ -10,7 +10,7 @@ title: Engineering
 
 ## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (M.S. Thesis)
 
-Focusing on the potential practical impact of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S under the supervision of Prof. Joonseok Lee, holding a concurrent position in Google Research (<a href="http://viplab.snu.ac.kr/">Lab</a>).
+Focusing on the potential practical impact of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S under the supervision of Prof. Joonseok Lee, holding a concurrent position at Google Research (<a href="http://viplab.snu.ac.kr/">Lab</a>).
 
 3D pose estimation is an invaluable task in computer vision with various practical applications, which aims to reproduce the 3D coordinates of a person appearing in an untrimmed 2D video. It has been extensively studied in literature with many real-world applications, e.g., sports, healthcare, games, movies, and video compression. Instead of fully rendering 3D voxels, it deals with a handful number of body keypoints (e.g., neck, knees, or ankles), which concisely represent dynamics of human motions in the real world.
 
