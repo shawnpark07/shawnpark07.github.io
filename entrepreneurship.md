@@ -16,10 +16,7 @@ title: Entrepreneurship
   <img src="/assets/socar.jpg" width="400" height="300"/>
 </p>
 <p float="left" align="center">
-  <b>(Left) </b>
-  TADA / 
-  <b>(Right) </b>
-  SOCAR
+  TADA / SOCAR
 </p>
 
 
@@ -58,7 +55,7 @@ This was my first project after joining TADA / SOCAR. Together with Elecle, now 
 
 
 ## [SNU]
-SNU(Seoul National University) is regarded as the best university in South Korea, whose alumni is known to be strongly competent and responsible for our society. 
+SNU(Seoul National University) is regarded as the best university in South Korea, whose alumni are known to be strongly competent and responsible for our society. 
 
 ## (2017.03 ~ 2018.04) SNU Business & Leadership Academic Club N-CEO
 
