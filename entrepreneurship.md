@@ -39,7 +39,7 @@ I was responsible for planning, operating, and partnering for the entire busines
 This was my first project after joining TADA / SOCAR. Together with Elecle, now has become an affiliate of SOCAR, we carried out a project to test a MVP of E-scooter sharing service in SNU campus. We were responsible for buying and importing the devices, business planning, and operations. We conducted the actual service for approximately two months with over 100 devices and received very positive user feedback.
 
 
-# [SNU]
+## [SNU]
 SNU(Seoul National University) is regarded as the best university in South Korea, whose alumni is known to be strongly competent and responsible for our society. 
 
 ## (2018.03 ~ 2019.04) SNU Business & Leadership Academic Club N-CEO
