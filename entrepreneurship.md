@@ -12,8 +12,8 @@ title: Entrepreneurship
 [SOCAR]([url](https://www.socar.kr/)), the No.1 Car-sharing company based on both South Korea and Malaysia, also once was the mother company of TADA. SOCAR occupies over 75% of market share, and has own fundamental with its 7.0 M user base. Now it is publicly listed in the KOSDAQ.
 
 <p float="left" align="middle">
-  <img src="/assets/tada.jpg" width="600" height="400" hspace="20"/>
-  <img src="/assets/socar.jpg" width="600" height="400"/>
+  <img src="/assets/tada.jpg" width="400" height="300" hspace="20"/>
+  <img src="/assets/socar.jpg" width="400" height="300"/>
 </p>
 
 
