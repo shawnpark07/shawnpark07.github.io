@@ -11,6 +11,15 @@ title: Engineering
 Focusing on the potential practical value of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S. 3D pose estimation is an invaluable task in computer vision with various practical applications. Especially, 3D pose estimation for multi-person from a monocular video (3DMPPE) is particularly challenging and is still largely uncharted, far from applying to in-the-wild scenarios yet. I pose three unresolved issues with the existing methods: lack of robustness on unseen views during training, vulnerability to occlusion, and severe jittering in the output. As a remedy, we propose POTR-3D, the first realization of a sequence-to-sequence 2D-to-3D lifting model for 3DMPPE, powered by a novel geometry-aware data augmentation strategy, capable of generating unbounded data with a variety of views while caring about the ground plane and occlusions. Through extensive experiments, we verify that the proposed model and data augmentation robustly generalizes to diverse unseen views, robustly recovers the poses against heavy occlusions, and reliably generates more natural and smoother outputs. The effectiveness of our approach is verified not only by achieving the state-of-the-art performance on public benchmarks, but also by qualitative results on more challenging in-the-wild videos.
 
 
+<p align="center">
+  <iframe src="/assets/in-the-wild_caption.pdf"/></iframe>
+  <iframe src="/assets/in-the-wild_1.pdf"/></iframe>
+  <iframe src="/assets/in-the-wild_2.pdf"/></iframe>
+  <iframe src="/assets/in-the-wild_3.pdf"/></iframe>
+</p>
+<p float="left" align="center">
+  Demonstration of the method on in-the-wild videos
+</p>
 
 ## (2018.03 ~ 2018.06) E-Scooter (w 3-Phase BLDC Motor) Manufacturing Project
 
