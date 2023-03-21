@@ -5,17 +5,16 @@ title: About
 
 ## VISION
 
-Dreaming to be an entrepreneur steering our world toward a better direction with tech.
+Dreaming to be an entrepreneur steering our world toward a better direction with AI/Data Tech.
 
-Especially interested in optimizing traditional industries like agriculture or logistics by introducing AI and Data tech.
-By doing so, longing to contribute to help tackle the fatal problem of our world, climate disaster and inequality.
+Especially longing to contribute to help tackle fatal problems of our world, like climate disaster or inequality.
 
 ## CAREER
 
-Belonging to <a href="https://tadatada.com/">Tada</a>, attracted 1.7M users and created 20K driver jobs only within 1 year, and it's mother company <a href="https://www.socar.kr/">Socar</a>, pioneering car-sharing paradigm based on it's 6.0M user base, worked for 2 years as a business developer.
+Belonging to <a href="https://tadatada.com/">TADA</a>, attracted 1.7M users and created 20K driver jobs only within 1 year from its launch, and it's mother company <a href="https://www.socar.kr/">SOCAR</a>, pioneering car-sharing paradigm based on it's 6.0M user base, worked for 2 years as a business developer.
 
-Contributed to build a ride-reservation system at Tada, and particiapted in partnership with Naver, Hyundai-Card, VISA, Volkswagen at Socar. Later, contributed to structuring of new-business of Socar, the long-term sharing.
+Contributed to build a ride-reservation system at TADA from the scratch, and particiapted in notable partnerships with Naver, Hyundai-Card, VISA, Volkswagen at SOCAR. Later, contributed to structuring of new-business of SOCAR, the long-term and P2P sharing.
 
 ## LEARNING
 
-I received a M.S of Data Science from Seoul National University where I especially concentrated on 3D Computer Vision(<a href="https://openreview.net/forum?id=9nG9yJBbfF">Paper</a> & <a href="https://www.youtube.com/watch?v=MBTAXerrD3o">Demo</a>), and a B.S of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tution and part of living stipend during B.S.
+I received a M.S. of Data Science from Seoul National University where I especially concentrated on 3D Computer Vision(<a href="https://www.youtube.com/watch?v=MBTAXerrD3o">Demo</a>), and a B.S. of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tution and part of living stipend during B.S.
