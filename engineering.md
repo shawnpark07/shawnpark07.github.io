@@ -6,7 +6,7 @@ title: Engineering
 > "Engineering is the closest thing to magic that exists in the world" / Elon Musk
 
 
-## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild
+## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (M.S. Thesis)
 
 Focusing on the potential practical impact of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S under the supervision of Prof. Joonseok Lee, holding a concurrent position in Google Research (<a href="http://viplab.snu.ac.kr/">Lab</a>).
 
