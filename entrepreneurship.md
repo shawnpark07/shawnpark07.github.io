@@ -54,7 +54,7 @@ I contributed to comprehensive aspects throughout planning, operation, and partn
 This was my first project after joining TADA / SOCAR. Together with Elecle, now has become an affiliate of SOCAR, we carried out a project to test a MVP of E-scooter sharing service in SNU campus. We were responsible for buying and importing the devices, business planning, and operations. We conducted the actual service for approximately two months with over 100 devices and received very positive user feedback.
 
 <p float="bottom" align="center">
-  <img src="/assets/escooter.jpg" width="250" height="350" />
+  <img src="/assets/elecle.jpg" width="250" height="350" />
 </p>
 <p align="center">
   Elecle in SNU
