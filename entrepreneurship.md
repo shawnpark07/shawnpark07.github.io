@@ -48,7 +48,7 @@ SNU(Seoul National University) is regarded as the best university in South Korea
 ## SNU Business & Leadership Academic Club N-CEO
 ### (2018.03 ~ 2019.04)
 
-N-CEO is a group of individuals who aspire to become the next generation of global leaders. From its day 1 to the present, all members deeply empathize with N-CEO's four core values (Dream, Leadership, Responsibility, Trust & Support) and strive to practice them in their life. Through activities such as joint projects with companies such as Hyundai Motor, WEMAKEPRICE, Fursys, and K-Bank, we cultivated the basics of entrepreneurship.
+N-CEO is a group of individuals who aspire to become the next generation of global leaders. From its day 1 to the present, all members deeply empathize with N-CEO's four core values (Dream, Leadership, Responsibility, Trust & Support) and strive to practice them in their life. Through activities such as joint projects with companies such as Hyundai Motor, WeMakePrice, Fursys, and K-Bank, we cultivated the basics of entrepreneurship.
 
 
 <!-- ![placeholder](/assets/profile2.jpg "Small example image"){: .align-center} -->
