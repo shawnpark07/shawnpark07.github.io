@@ -11,7 +11,7 @@ Bilingual in both business and engineering, equipped through endeavored experien
 
 ## CAREER
 
-Belonging to <a href="https://tadatada.com/">TADA</a>, attracted 1.7M users and created 20K driver jobs only within 1 year from its launch, and it's mother company <a href="https://www.socar.kr/">SOCAR</a>, pioneering car-sharing paradigm based on it's 6.0M user base, worked for 2 years as a business developer.
+Belonging to <a href="https://tadatada.com/">TADA</a>, a ride-hailing service attracted 1.7M users and created 20K driver jobs only within 1 year from its launch, and it's mother company <a href="https://www.socar.kr/">SOCAR</a>, pioneering car-sharing paradigm based on it's 6.0M user base, worked for 2 years as a business developer.
 
 Contributed to build a ride-reservation system at TADA from the scratch, and particiapted in notable partnerships with Naver, Hyundai-Card, VISA, Volkswagen at SOCAR. Later, contributed to restructuring new-business of SOCAR, the long-term and P2P sharing.
 
