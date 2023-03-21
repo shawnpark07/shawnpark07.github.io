@@ -39,8 +39,15 @@ While working here, I contributed to some notable partnerships with Naver, Hyund
 
 ## (2018.11 ~ 2019.09) TADA Ride Reservation Product Setup
 
-I contributed to comprehensive aspects throughout planning, operation, and partnership of TADA AIR, and TADA PRIVATE from the bottom, each of which is service for airport transportation, and service for hourly rental for some special occations like golf, weddings, and tourism, respectively. Afterwards, I contributed to the optimization and enhancement of operating systems and processes.
+I contributed to comprehensive aspects throughout planning, operation, and partnership of TADA AIR, and TADA PRIVATE from the bottom, each of which is service for airport transportation, and service for hourly rental for some special occations like golf, weddings, and tourism, respectively. Afterwards, I contributed to the enhancement of operating systems and processes with optimization of backend logics.
 
+<p float="left" align="middle">
+  <img src="/assets/bg_lineup_air.jpg" width="400" height="300" hspace="20"/>
+  <img src="/assets/bg_lineup_private.jpg" width="400" height="300"/>
+</p>
+<p float="left" align="center">
+  TADA AIR / PRIVATE
+</p>
 
 ## (2019.01 ~ 2019.06) Campus E-Scooter Sharing MVP
 
