@@ -11,6 +11,11 @@ title: Entrepreneurship
 
 [SOCAR]([url](https://www.socar.kr/)), the No.1 Car-sharing company based on both South Korea and Malaysia, also once was the mother company of TADA. SOCAR occupies over 75% of market share, and has own fundamental with its 7.0 M user base. Now it is publicly listed in the KOSDAQ.
 
+<p float="left" align="middle">
+  <img src="/assets/tada.jpg" />
+  <img src="/assets/socar.jpg" />
+</p>
+
 
 ## (2019.10 ~ 2021.02) Business Development and Strategic Planning
 
@@ -34,9 +39,8 @@ While working here, I contributed to some notable partnerships with Naver, Hyund
 I was responsible for planning, operating, and partnering for the entire business of TADA Air, a service for airport transportation, and TADA PRIVATE, a service for time-based rentals for golf, weddings, and tourism. Afterwards, I contributed to the optimization and enhancement of operating systems and processes.
 
 <p align="center">
-  <img src="/assets/bg_lineup_air.jpg" alt="Sublime's custom image"/>
+  <img src="/assets/bg_lineup_air.jpg" alt=""/>
 </p>
-![placeholder](/assets/bg_lineup_air.jpg "Small example image"){: .align-center}
 
 
 ## (2019.01 ~ 2019.06) Campus E-Scooter Sharing MVP
