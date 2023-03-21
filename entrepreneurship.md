@@ -24,14 +24,14 @@ title: Entrepreneurship
 
 Mobility is essential to human life. The mission of TADA / SOCAR is to make everyone's transportation more convenient and ultimately shift the paradigm of vehicle ownership to vehicle sharing. Potential competitors of TADA / SOCAR would be automobile manufacturers.
 
-While working here, I contributed to some notable partnerships with Naver, Hyundai Card, VISA, and Volkswagen (See below). Afterwards, I contributed to the restructuring of new business of Socar (long-term and P2P sharing) and the planning of medium-to-long term strategies, including IVI (In-vehicle Infortainment).
+While working here, I contributed to some notable partnerships with Naver, Hyundai Card, VISA, and Volkswagen (See below). Afterwards, I contributed to the restructuring of new business of SOCAR (long-term and P2P sharing) and the planning of medium-to-long term strategies, including IVI (In-vehicle Infortainment).
 
 #### [Key Partnership Achievements]
-- [Volkswagen] Strategic collaboration for promoting Volkswagen's new model (Jetta) based on the sharing platform of Socar (2021.01)
-- [Hyundai Card] Planning and strategic collaboration for <a href="https://www.sedaily.com/NewsView/1Z5FV7V24H">SOCAR PLCC</a> (Private Labeled Credit Card including exclusive benefits) (2021.01)
-- [Naver] Introduction of NaverPay in Socar with joint marketing promotion (2020.09)
+- [Volkswagen] Strategic collaboration for promoting Volkswagen's new model (Jetta) based on the sharing platform of SOCAR (2021.01)
+- [Hyundai Card] Planning strategic collaboration for <a href="https://www.sedaily.com/NewsView/1Z5FV7V24H">SOCAR PLCC</a> (Private Labeled Credit Card including exclusive benefits) (2021.01)
+- [Naver] Introduction of NaverPay in SOCAR with joint marketing promotion (2020.09)
 - [VISA APAC] Joint marketing and strategic collaboration with TADA (2020.06)
-- [KB Card] Joint marketing with SoCar (2020.05)
+- [KB Card] Joint marketing with SOCAR (2020.05)
 - [Shinhan Card] Joint marketing with TADA (2019.03)
 - [DAICHI] Collaborative planning and beta testing of a new TADA product for infants (2019.02)
 - [KLOOK] Sales partnership with TADA for foreign visitors (2018.12)
