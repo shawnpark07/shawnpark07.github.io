@@ -5,9 +5,9 @@ title: About
 
 ## VISION
 
-Dreaming to be an entrepreneur steering our world toward a better direction with AI/Data Tech.
+Dreaming to be an entrepreneur steering our world toward a better direction with AI/Data Tech, longing to contribute to help tackle fatal problems of our world, like climate disaster or inequality.
 
-Especially longing to contribute to help tackle fatal problems of our world, like climate disaster or inequality.
+Bilingual in both business and engineering, equipped through endeavored experiences in industry and academia.
 
 ## CAREER
 
