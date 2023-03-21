@@ -14,6 +14,7 @@ title: Entrepreneurship
 <p float="left" align="middle">
   <img src="/assets/tada.jpg" width="400" height="300" hspace="20"/>
   <img src="/assets/socar.jpg" width="400" height="300"/>
+  <div class="caption">**(Left)** TADA / **(Right)** SOCAR</div>
 </p>
 
 
