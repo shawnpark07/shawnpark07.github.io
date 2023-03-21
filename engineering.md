@@ -14,7 +14,7 @@ Focusing on the potential practical impact of AI models, I have elaborated on 3D
 
 3D pose estimation is an invaluable task in computer vision with various practical applications, which aims to reproduce the 3D coordinates of a person appearing in an untrimmed 2D video. It has been extensively studied in literature with many real-world applications, e.g., sports, healthcare, games, movies, and video compression. Instead of fully rendering 3D voxels, it deals with a handful number of body keypoints (e.g., neck, knees, or ankles), which concisely represent dynamics of human motions in the real world.
 
-Through extensive experiments, we verify that the proposed model, POTR-3D, and data augmentation robustly generalizes to diverse unseen views, robustly recovers the poses against heavy occlusions, and reliably generates more natural and smoother outputs, the long-standing problems in this domain. The effectiveness of our approach is verified not only by achieving the state-of-the-art performance on public benchmarks (as of Mar, 2023), but also by qualitative results on more challenging in-the-wild videos. 
+Through extensive experiments, we verify that the proposed model, POTR-3D, and data augmentation robustly generalizes to diverse unseen views, robustly recovers the poses against heavy occlusions, and reliably generates more natural and smoother outputs, the long-standing problems in this domain. The effectiveness of our approach is verified not only by achieving the state-of-the-art performance on public benchmarks (as of Mar, 2023), but also by qualitative results on more challenging in-the-wild videos (<a href="https://www.youtube.com/watch?v=tkRtw59w47Y">Demo</a>). 
 <!-- (<a href="https://www.youtube.com/@2023iccv">Demo</a>). -->
 
 
