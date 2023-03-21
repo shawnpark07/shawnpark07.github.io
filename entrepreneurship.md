@@ -14,8 +14,8 @@ Mobility is essential to human life. The mission of Tada / Socar is to make ever
 While working here, I contributed to some notable partnerships with Naver, Hyundai Card, VISA, and Volkswagen (See below). Afterwards, I contributed to the restructuring of new business of Socar (long-term and P2P sharing) and the planning of medium-to-long term strategies, including IVI (In-vehicle Infortainment).
 
 #### [Key Partnership Achievements]
-- [Volkswagen] Strategic collaboration related to promoting Volkswagen's new model (Jetta) through the use of the SoCar platform (2021.01)
-- [Hyundai Card] Planning and strategic collaboration for SoCar PLCC (2021.01)
+- [Volkswagen] Strategic collaboration for promoting Volkswagen's new model (Jetta) based on the sharing platform of Socar (2021.01)
+- [Hyundai Card] [Planning and strategic collaboration for Socar PLCC card]([url](https://www.sedaily.com/NewsView/1Z5FV7V24H)) (2021.01)
 - [Naver] Introduction of SoCar on Naver Pay and joint marketing (2020.09)
 - [VISA APAC] Joint marketing and strategic collaboration with Tada (2020.06)
 - [KB Card] Joint marketing with SoCar (2020.05)
