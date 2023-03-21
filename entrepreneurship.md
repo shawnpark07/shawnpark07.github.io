@@ -7,9 +7,9 @@ title: Entrepreneurship
 
 
 ## [TADA / SOCAR]
-[TADA]([url](https://tadatada.com/)), a phenomenal ride-hailing service based on South Korea, which gathered 1.7 M users and created 20 K driver jobs in just one year from the launch. Though legally vindicated, the business suffered disruptions due to biased legislation by the National Assembly. The story has been made as [a documentary]([url](https://zdnet.co.kr/view/?no=20210915081331)) on Netflix.
+<a href="https://tadatada.com">TADA</a>, a phenomenal ride-hailing service based on South Korea, which gathered 1.7 M users and created 20 K driver jobs in just one year from the launch. Though legally vindicated, the business suffered disruptions due to biased legislation by the National Assembly. The story has been made as <a href="https://zdnet.co.kr/view/?no=20210915081331">a documentary</a> on Netflix.
 
-[SOCAR]([url](https://www.socar.kr/)), the No.1 ride-sharing company based on both South Korea and Malaysia, also once was the mother company of TADA. SOCAR occupies over 75% of market share, and has own fundamental with its 7.0 M user base. Now it is publicly listed in the KOSDAQ.
+<a href="https://socar.kr">SOCAR</a>, the No.1 ride-sharing company based on both South Korea and Malaysia, also once was the mother company of TADA. SOCAR occupies over 75% of market share, and has own fundamental with its 7.0 M user base. Now it is publicly listed in the KOSDAQ.
 
 <p float="left" align="middle">
   <img src="/assets/tada.jpg" width="400" height="300" hspace="20"/>
@@ -28,7 +28,7 @@ While working here, I contributed to some notable partnerships with Naver, Hyund
 
 #### [Key Partnership Achievements]
 - [Volkswagen] Strategic collaboration for promoting Volkswagen's new model (Jetta) based on the sharing platform of Socar (2021.01)
-- [Hyundai Card] Planning and strategic collaboration for [Socar PLCC]([url](https://www.sedaily.com/NewsView/1Z5FV7V24H)) (Private Labeled Credit Card including exclusive benefits) (2021.01)
+- [Hyundai Card] Planning and strategic collaboration for <a href="https://www.sedaily.com/NewsView/1Z5FV7V24H">SOCAR PLCC</a> (Private Labeled Credit Card including exclusive benefits) (2021.01)
 - [Naver] Introduction of NaverPay in Socar with joint marketing promotion (2020.09)
 - [VISA APAC] Joint marketing and strategic collaboration with TADA (2020.06)
 - [KB Card] Joint marketing with SoCar (2020.05)
@@ -66,4 +66,4 @@ SNU(Seoul National University) is regarded as the best university in South Korea
 
 ## (2017.03 ~ 2018.04) SNU Business & Leadership Academic Club N-CEO
 
-[N-CEO]([url](http://n-ceo.org/nceo/)) is a group of individuals who aspire to become the next generation of global leaders. From its day 1 to the present, all members deeply empathize with N-CEO's four core values (Dream, Leadership, Responsibility, Trust & Support) and strive to practice them in their life. Through activities such as joint projects with companies such as Hyundai Motor, WeMakePrice, Fursys, and K-Bank, we cultivated the basics of entrepreneurship.
+<a href="http://n-ceo.org/nceo/">N-CEO</a> is a group of individuals who aspire to become the next generation of global leaders. From its day 1 to the present, all members deeply empathize with N-CEO's four core values (Dream, Leadership, Responsibility, Trust & Support) and strive to practice them in their life. Through activities such as joint projects with companies such as Hyundai Motor, WeMakePrice, Fursys, and K-Bank, we cultivated the basics of entrepreneurship.
