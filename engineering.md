@@ -8,14 +8,14 @@ title: Engineering
 
 ## [M.S. @ SNU Data Science]
 
-## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (M.S. Thesis)
+## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (M.S. Thesis, Accepted @ICCV23'; <a href="https://arxiv.org/abs/2309.08644">Link</a>)
 
 Focusing on the potential practical impact of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S under the supervision of Prof. Joonseok Lee, holding a concurrent position at Google Research (<a href="http://viplab.snu.ac.kr/">Lab</a>).
 
 3D pose estimation is an invaluable task in computer vision with various practical applications, which aims to reproduce the 3D coordinates of a person appearing in an untrimmed 2D video. It has been extensively studied in literature with many real-world applications, e.g., sports, healthcare, games, movies, and video compression. Instead of fully rendering 3D voxels, it deals with a handful number of body keypoints (e.g., neck, knees, or ankles), which concisely represent dynamics of human motions in the real world.
 
 Through extensive experiments, we verify that the proposed model, POTR-3D, and data augmentation robustly generalizes to diverse unseen views, robustly recovers the poses against heavy occlusions, and reliably generates more natural and smoother outputs, the long-standing problems in this domain. The effectiveness of our approach is verified not only by achieving the state-of-the-art performance on public benchmarks (as of Mar, 2023), but also by qualitative results on more challenging in-the-wild videos (<a href="https://www.youtube.com/watch?v=tkRtw59w47Y">Demo</a>). 
-<!-- (<a href="https://www.youtube.com/@2023iccv">Demo</a>). -->
+<!-- (<a href="https://www.youtube.com/@potr3d">Demo</a>). -->
 
 
 <p align="center">
