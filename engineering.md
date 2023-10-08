@@ -8,7 +8,7 @@ title: Engineering
 
 ## [M.S. @ SNU Data Science]
 
-## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (M.S. Thesis, Accepted @ICCV23'; <a href="https://arxiv.org/abs/2309.08644">Link</a>)
+## (2021.03 ~ 2023.03) 3D Multi-Person Pose Estimation from Monocular Videos in the Wild (Accepted @ICCV23'; <a href="https://arxiv.org/abs/2309.08644">Link</a>)
 
 Focusing on the potential practical impact of AI models, I have elaborated on 3D Pose Estimation from Monocular Videos during my M.S under the supervision of Prof. Joonseok Lee, holding a concurrent position at Google Research (<a href="http://viplab.snu.ac.kr/">Lab</a>).
 
