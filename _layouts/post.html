@@ -42,11 +42,37 @@ layout: default
   {% endif %}
 </article>
 
-{% if site.related_posts != empty %}
+{% comment %} Find related posts by matching tags {% endcomment %}
+{% assign related_posts = "" | split: "" %}
+{% for tag in page.tags %}
+  {% for post in site.tags[tag] %}
+    {% if post.url != page.url %}
+      {% unless related_posts contains post %}
+        {% assign related_posts = related_posts | push: post %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% comment %} If no tag matches, fall back to same category {% endcomment %}
+{% if related_posts.size == 0 %}
+  {% for cat in page.categories %}
+    {% for post in site.categories[cat] %}
+      {% if post.url != page.url %}
+        {% unless related_posts contains post %}
+          {% assign related_posts = related_posts | push: post %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+
+{% if related_posts.size > 0 %}
+{% assign related_posts = related_posts | sort: 'date' | reverse %}
 <aside class="related">
   <h2>Related posts</h2>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in related_posts %}
       <li>
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
