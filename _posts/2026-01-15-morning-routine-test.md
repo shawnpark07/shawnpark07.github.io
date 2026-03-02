@@ -6,6 +6,7 @@ date: 2026-01-15 08:00 +0900
 categories: [Life]
 tags: [habits, productivity, morning]
 toc: true
+published: false
 ---
 
 After years of hitting snooze, I finally discovered a morning routine that sticks.

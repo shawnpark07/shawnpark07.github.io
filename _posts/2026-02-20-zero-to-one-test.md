@@ -6,6 +6,7 @@ date: 2026-02-20 11:00 +0900
 categories: [Books]
 tags: [book-review, startups, entrepreneurship]
 toc: true
+published: false
 ---
 
 Rating: ⭐⭐⭐⭐⭐ (5/5)
