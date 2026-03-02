@@ -1,6 +1,9 @@
-{% comment %}
-  Placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons:
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+<link rel="alternate icon" href="{{ '/assets/favicon.svg' | relative_url }}">
 
-  1. Head over to https://realfavicongenerator.net/ to add your own favicons.
-  2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
-{% endcomment %}
+<!-- For Apple devices -->
+<link rel="apple-touch-icon" href="{{ '/assets/favicon.svg' | relative_url }}">
+
+<!-- Theme color for mobile browsers -->
+<meta name="theme-color" content="#0C162E">
