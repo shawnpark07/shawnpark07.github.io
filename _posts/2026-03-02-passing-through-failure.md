@@ -8,7 +8,9 @@ tags: [startup]
 toc: true
 ---
 
-**"결국 창업은 '나는 누구인가'라는 질문을 회피하지 않고 정직하게 매일매일 답을 내야 하는 일이다."**
+**In the end, startup a company is the daily practice of honestly answering the question, "Who am I?" without ever turning away from it.**
+
+> **"결국 창업은 '나는 누구인가'라는 질문을 회피하지 않고 정직하게 매일매일 답을 내야 하는 일이다."**
 
 ---
 
