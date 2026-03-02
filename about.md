@@ -18,3 +18,8 @@ Contributed to build a ride-reservation system at TADA from the scratch, and par
 ## LEARNING
 
 I received a M.S. of Data Science where I especially concentrated on 3D Computer Vision, and a B.S. of Electrical & Computer Engineering from Seoul National University. Also, I was a sponsored student of Samsung JFL(Junior Frontier Leader) Scholarship which covers full tuition and part of living stipend during B.S.
+
+---
+
+<p align="right"><a href="/entrepreneurship/">Me as an Entrepreneur →</a></p>
+<p align="right"><a href="/engineering/">Me as an Engineer →</a></p>

@@ -2,10 +2,10 @@
   url: /
 - title: About
   url: /about/
-- title: Entrepreneurship
-  url: /entrepreneurship/
-- title: Engineering
-  url: /engineering/
+# - title: Entrepreneurship
+#   url: /entrepreneurship/
+# - title: Engineering
+#   url: /engineering/
 - title: Books
   url: /books/
 - title: Life

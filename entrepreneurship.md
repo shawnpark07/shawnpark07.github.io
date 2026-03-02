@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Entrepreneurship
+permalink: /entrepreneurship/
 ---
 
 > "Make history or be a part of it" / Phil Knight

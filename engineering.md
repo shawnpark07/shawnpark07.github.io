@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Engineering
+permalink: /engineering/
 ---
 
 > "Engineering is the closest thing to magic that exists in the world" / Elon Musk
