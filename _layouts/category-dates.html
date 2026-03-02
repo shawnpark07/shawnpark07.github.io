@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="home-header pure-menu pure-menu-horizontal">
+  <div class="home-header-bar">
+    <ul class="home-header-menu pure-menu-list">
+      <li class="pure-menu-item">
+        <a href="{{ page.category_base }}/" class="pure-menu-link">All</a>
+      </li>
+      <li class="pure-menu-item">
+        <a href="{{ page.category_base }}/dates/" class="pure-menu-link current-item">Dates</a>
+      </li>
+      <li class="pure-menu-item">
+        <a href="{{ page.category_base }}/tags/" class="pure-menu-link">Tags</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<h1>{{ page.parent_title }} - by Date</h1>
+
+{% assign category_posts = site.categories[page.filter_category] | sort: 'date' | reverse %}
+
+{% assign postsByYear = category_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+{% for year in postsByYear %}
+<h2 id="{{ year.name }}">{{ year.name }}</h2>
+<ul class="post-list-by-taxonomy">
+  {% for post in year.items %}
+    <li>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+      &raquo;
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
+{% if category_posts.size == 0 %}
+<p>No posts yet in this category.</p>
+{% endif %}

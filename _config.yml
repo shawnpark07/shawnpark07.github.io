@@ -58,9 +58,9 @@ sass:
 # Get your values from https://giscus.app
 giscus:
   repo: shawnpark07/shawnpark07.github.io
-  repo_id: YOUR_REPO_ID_HERE
-  category: Announcements
-  category_id: YOUR_CATEGORY_ID_HERE
+  repo_id: R_kgDOIrUkWQ
+  category: General
+  category_id: DIC_kwDOIrUkWc4C3g_X
 
 # Specify the author for blog posts
 author:

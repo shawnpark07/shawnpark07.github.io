@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="home-header pure-menu pure-menu-horizontal">
+  <div class="home-header-bar">
+    <ul class="home-header-menu pure-menu-list">
+      <li class="pure-menu-item">
+        <a href="{{ page.category_base }}/" class="pure-menu-link">All</a>
+      </li>
+      <li class="pure-menu-item">
+        <a href="{{ page.category_base }}/dates/" class="pure-menu-link">Dates</a>
+      </li>
+      <li class="pure-menu-item">
+        <a href="{{ page.category_base }}/tags/" class="pure-menu-link current-item">Tags</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<h1>{{ page.parent_title }} - by Tag</h1>
+
+{% assign category_posts = site.categories[page.filter_category] %}
+
+{% comment %} Collect all tags from posts in this category {% endcomment %}
+{% assign all_tags = "" | split: "" %}
+{% for post in category_posts %}
+  {% for tag in post.tags %}
+    {% unless all_tags contains tag %}
+      {% assign all_tags = all_tags | push: tag %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{% assign all_tags = all_tags | sort %}
+
+{% comment %} Show tag cloud {% endcomment %}
+<div class="taxonomies-wrapper">
+  <ul class="taxonomies">
+    {% for tag in all_tags %}
+      {% assign tag_posts = category_posts | where_exp: "post", "post.tags contains tag" %}
+      <li>
+        <a class="taxonomy" href="#{{ tag | slugify }}">
+          <span>{{ tag | slugify }}</span>
+          <span class="taxonomy-count">{{ tag_posts.size }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% comment %} Show posts by tag {% endcomment %}
+{% for tag in all_tags %}
+  {% assign tag_posts = category_posts | where_exp: "post", "post.tags contains tag" %}
+  <h2 id="{{ tag | slugify }}">{{ tag | slugify }}</h2>
+  <ul class="post-list-by-taxonomy">
+    {% for post in tag_posts %}
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        &raquo;
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <a href="#" onclick="window.scrollTo(0,0); return false;" class="back-to-top">Top ↑</a>
+{% endfor %}
+
+{% if category_posts.size == 0 %}
+<p>No posts yet in this category.</p>
+{% endif %}

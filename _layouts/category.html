@@ -2,7 +2,21 @@
 layout: default
 ---
 
-{% include home-header.html %}
+<div class="home-header pure-menu pure-menu-horizontal">
+  <div class="home-header-bar">
+    <ul class="home-header-menu pure-menu-list">
+      <li class="pure-menu-item">
+        <a href="{{ page.permalink }}" class="pure-menu-link current-item">All</a>
+      </li>
+      <li class="pure-menu-item">
+        <a href="{{ page.permalink }}dates/" class="pure-menu-link">Dates</a>
+      </li>
+      <li class="pure-menu-item">
+        <a href="{{ page.permalink }}tags/" class="pure-menu-link">Tags</a>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <h1>{{ page.title }}</h1>
 
