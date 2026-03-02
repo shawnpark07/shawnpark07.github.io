@@ -8,9 +8,8 @@ tags: [startup]
 toc: true
 ---
 
-**In the end, startup a company is the daily practice of honestly answering the question, "Who am I?" without ever turning away from it.**
-
-> **"결국 창업은 '나는 누구인가'라는 질문을 회피하지 않고 정직하게 매일매일 답을 내야 하는 일이다."**
+**In the end, startup a company is the daily practice of honestly answering the question, "Who am I?" without ever turning away from it.**\
+**"결국 창업은 '나는 누구인가'라는 질문을 회피하지 않고 정직하게 매일매일 답을 내야 하는 일이다."**
 
 ---
 
@@ -52,14 +51,16 @@ Start-up a company is one of the most direct way to confront these questions.
 It is not because of the slim chance of it for attaining enormous wealth or success.
 It is because it is the process of carving out my own path, entirely under my own initiative, and vision.
 
-> 자신이 가장 강한 흥미를 느끼는 일을 고르는 것. 그리고 그 일을 끈질기게 끝까지 해내는 것. 이 두 가지가 모두 필요한 이유는 그래야만 언제 끝날지 모르는 인생에서 후회가 없기 때문이라고 생각한다. 그리고 어쩌면 사회에 기여할 수 있을지도 모른다.
+> "자신이 가장 강한 흥미를 느끼는 일을 고르는 것. 그리고 그 일을 끈질기게 끝까지 해내는 것. 이 두 가지가 모두 필요한 이유는 그래야만 언제 끝날지 모르는 인생에서 후회가 없기 때문이라고 생각한다. 그리고 어쩌면 사회에 기여할 수 있을지도 모른다."
+> Choosing work that genuinely interests me the most—and then seeing it through to the very end with persistence. Both are necessary, because only then can we live without regret in a life whose end we never know. And perhaps, in doing so, we may even contribute to society.
 
 ---
 
 "Interest" is one of the key point Soryoung emphasizes.
 It surprised me. As a representative, responsibility to employees and shareholders is certainly important, but she argues that perhaps even more important is the founder's own genuine interest.
 
-> 이건 새 CEO가 와서 사업을 하는 게 아니라, 내가 하는 거니까. 내가 내 인생을 100% 투자해서 만드는 것이니까. ... . 그때 나에게 해야 했던 딱 하나의 질문은 바로, "나는 가슴에 손을 얹고, 이걸 진짜로 진짜로 진짜로 좋아하나?" 였다,
+> "이건 새 CEO가 와서 사업을 하는 게 아니라, 내가 하는 거니까. 내가 내 인생을 100% 투자해서 만드는 것이니까. ... 그때 나에게 해야 했던 딱 하나의 질문은 바로, '나는 가슴에 손을 얹고, 이걸 진짜로 진짜로 진짜로 좋아하나?' 였다."
+> This isn’t about a new CEO coming in to run the business—it’s about me doing it, with 100 percent of my life into it.  ... Only one question at that time to ask myself was, 'With my hand on my heard, do I truly, truly, truly love this?'.
 
 When I was doing my own company, someone once asked me a question:\
 "You do it with fun?"\
@@ -68,8 +69,5 @@ Rather than enjoyment, what came first was a self-imposed sense of responsibilit
 Doing I truly love and what I'm good at must come first, now I think.
 And perhaps, just simply pursuing it with 진력<span style="color: lightgrey;">assiduity</span> might be actually enough.
 
-> (가난한 찰리의 연감 중) 제가 알게 된 또 다른 사실은 어떤 분야에서 정말로 뛰어나려면 반드시 강한 흥미를 느껴야 한다는 겁니다. ... . 여러분이 해야 할 또 다른 일은 진력하는 겁니다. 저는 이 단어를 좋아합니다. "진득하게 일을 해낸다" 는 뜻이거든요.
-
-<br>
-
-*The direct quotations from the book remain untranslated. Please refer to a translation tool if necessary :)
+> "(가난한 찰리의 연감 중) 제가 알게 된 또 다른 사실은 어떤 분야에서 정말로 뛰어나려면 반드시 강한 흥미를 느껴야 한다는 겁니다. ... 여러분이 해야 할 또 다른 일은 진력하는 겁니다. 저는 이 단어를 좋아합니다. '진득하게 일을 해낸다' 는 뜻이거든요."
+> (From Poor Charlie's Almanack) Another thing I came to realize is that if you truly want to excel in any field, you must have a strong interest in it. ... And the other thing you must do is practice assiduity—a word I particularly like—which means finishing a piece of work through with steady persistence.
