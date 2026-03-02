@@ -54,6 +54,14 @@ sass:
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
+# Giscus comments (GitHub Discussions)
+# Get your values from https://giscus.app
+giscus:
+  repo: shawnpark07/shawnpark07.github.io
+  repo_id: YOUR_REPO_ID_HERE
+  category: Announcements
+  category_id: YOUR_CATEGORY_ID_HERE
+
 # Specify the author for blog posts
 author:
   name: Shawn Park
